@@ -19,7 +19,7 @@
         {
             "name": "Launch currently open script",
             "type": "php",
-            "request": "launch",
+            "request": "Admin",
             "program": "${file}",
             "cwd": "${fileDirname}",
             "port": 9000,
